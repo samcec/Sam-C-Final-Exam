@@ -5,17 +5,17 @@ body {
 
 
 .main-box {
-    background: rgb(5, 163, 163);
+    background: rgb(1, 150, 150);
     color: #FFF;
     text-align: center;
     padding: 106px 0;
 }
 
 .main-box h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 20px;
 	margin-top: 0;
-	color: rgb(175, 0, 0);
+	color: rgb(199, 5, 5);
 }
 
 .main-box span {
@@ -71,7 +71,12 @@ input.submit {
     padding-right: 10px;
 }
 
-
+.text-box-3 label {
+    display: block;
+    font-size: 35px;
+    margin-bottom: 10px;
+	color: rgb(0, 141, 0);
+}
 
 
 
@@ -98,7 +103,7 @@ input.submit {
 }
 
 .number-list {
-    color: red;
+    color: rgb(74, 74, 235);
     font-weight: bold;
     margin-top: 12px;
     font-size: 20px;
