@@ -1,3 +1,4 @@
+/*ready the funtion for the final&*/
 $(document).ready(function() {
 	$(".submit").click(function() {
 		var num1 = parseInt($(".number-1").val());
@@ -26,6 +27,7 @@ $(document).ready(function() {
 
 
 });
+/*start final funtion here*/
 
 
 
